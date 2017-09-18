@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ActivityTransition</string>
+  <string name="promptSpinner">Scegli la tua transizione preferita</string>
+  <string name="promptOutSpinner">Transizione di uscita</string>
+  <string name="promptInSpinner">Transizione di entrata</string>
+  <string name="buttonRun">Prova!</string>
+  <string name="NoTransitionSpinnerText">Nessuna transizione</string>
+  <string name="resultOutSpinner">Transizione di uscita</string>
+  <string name="resultInSpinner">Transizione di entrata</string>
+  <string name="hintCopyToClipboard">Effettuare una lunga pressione del testo XML per copiarlo in clipboard</string>
+  <string name="AddedToClipboard">Testo aggiunto alla clipboard</string>
+</resources>
